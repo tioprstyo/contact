@@ -1,0 +1,1 @@
+export const BACKEND_STAGE_URL = 'https://contact.herokuapp.com';
